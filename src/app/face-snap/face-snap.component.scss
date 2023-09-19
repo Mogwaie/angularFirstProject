@@ -1,0 +1,16 @@
+.face-snap-card {
+  background-color: lightgray;
+  width: 25%;
+  border-radius: 6px;
+  padding: 2rem;
+
+  img {
+    width: 100%;
+    max-height: 27rem;
+  }
+  .button-snaps {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
